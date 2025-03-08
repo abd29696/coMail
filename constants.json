@@ -1,0 +1,4 @@
+{
+  "model_type": "gemini",
+  "email_prompt_template": "Write a professional and engaging cold email for {name}, who works at {company} in the {industry} industry. The email should introduce our service: {offer}, and encourage a response."
+}
